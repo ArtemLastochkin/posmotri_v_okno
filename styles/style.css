@@ -46,6 +46,7 @@ ol {
   align-items: end;
   column-gap: 30px;
   max-inline-size: 1140px;
+  flex-grow: 1;
 }
 
 .result__video-container {
